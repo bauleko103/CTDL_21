@@ -1,0 +1,4 @@
+vào file thuvien.cpp
+crt F "G::" //sẽ hiển thị ổ đĩa đọc các file txt
+// các bạn chỉ cần thay đỗi đường dẫn tới thư mục bạn muốn lưu file 
+paste đường đg dẫn thay thế "G::"
